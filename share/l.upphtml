@@ -2,15 +2,17 @@
 <html lang=${LANG%%_*}>
 
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pedālgriezis</title>
 
-<title>Pedālgriezis</title>
 
-<meta charset=${LANG##*.}>
-<meta name=viewport content='width=device-width'>
 
 <link rel=icon href=favicon.ico type=image/x-icon>
 <link rel=stylesheet
 href=s.css?$(lmt -f '%Y-%m-%dT%H:%M:%SZ' s.css | cut -d' ' -f1)>
+<link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
 
 </head>
 
