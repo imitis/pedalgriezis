@@ -3,3 +3,32 @@
 echo hello, world
 #!
 </p>
+
+
+<a href="https://example.com">
+  <button>Click me!</button>
+</a>
+
+<details>
+  <summary>Click me!</summary>
+  <p>Lorem ipsum dolor sit amet.</p>
+</details>    
+
+
+
+<blockquote>
+  Hello, world!
+</blockquote>
+
+<blockquote>
+  <p>Hello, world!</p>
+  <button>Click me!</button>
+</blockquote>
+
+<ul>
+  <li>Hello, world!</li>
+  <li>
+    <p>Line 1</p>
+    <img src="https://example.com/image.png">
+  </li>
+</ul>
